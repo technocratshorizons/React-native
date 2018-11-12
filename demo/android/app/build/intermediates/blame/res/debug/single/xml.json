@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/linux30/Desktop/AwesomeProject/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    }
+]

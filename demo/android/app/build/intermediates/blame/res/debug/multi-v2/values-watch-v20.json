@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/linux30/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/a87f02fc5b8bcc7d2fc35456513edba9/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

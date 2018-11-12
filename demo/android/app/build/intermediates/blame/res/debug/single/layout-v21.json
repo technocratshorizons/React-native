@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/linux30/.android/build-cache/e0202c62a7dd6f1e278158be1c9fbf8e9883ac9c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/linux30/.android/build-cache/e0202c62a7dd6f1e278158be1c9fbf8e9883ac9c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/linux30/.android/build-cache/e0202c62a7dd6f1e278158be1c9fbf8e9883ac9c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/linux30/.android/build-cache/e0202c62a7dd6f1e278158be1c9fbf8e9883ac9c/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

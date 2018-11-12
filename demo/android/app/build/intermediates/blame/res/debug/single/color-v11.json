@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/linux30/.android/build-cache/fcc6a9b6990684b2d8ef88692191b8df40261bf4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/linux30/.android/build-cache/fcc6a9b6990684b2d8ef88692191b8df40261bf4/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

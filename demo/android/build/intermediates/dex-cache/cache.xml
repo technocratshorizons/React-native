@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/25d527d2d95efb05324a648271aaeca2f692abea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="47fad7a852da507191f2284281ff1cdb5896d888">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_e573b6bd661cf22a256326dac75f2f45e1458479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_728e4ed6d9e2c38918c0486d71e8f167e851e546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/50a1d4c50ed10898ff15ac53eb795b119588541f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_58a5fd79133058173dca7f5542910c59a57d7b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/1835a98ef221ee2dde91634b10b7ea2670ccabe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_ff4ee761e533cfcc5b864b6f19b9fcbc08c7d4ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c29211912d493074e81ca60c0af524d8c8b9d992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-image-crop-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7423febf516615fdffa47e41246ad34adb1cf3cf">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_75ae84f0f7dd41907ad1b0d6e1f88249983d9b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/2d0de32c05c06df39ba38d94925a05a017ea041a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_51b2d523a8308f398e5618dfa313fa79f23fc473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3bed41dc3164f618b7c22f37116f60b2017046e7">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_60f78fe44aa1c42960e53d05a996bb792a6aedba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/7103553c1edb4f2c88c8d7354abba753a9f98109/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a5f16eb26be831399d58890dafe989df0a5a8088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_325fd3331cd999ee810c05b2733056aa7ed60b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="063278187507d3383c66386163cbabf34d6e748a">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_be512b963433b978432773151d3f2da03a3fd528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/6c4c44caee887507d61075f5bac1a0f903ef4aec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="694a642670bddee011a52670fc77f018d2b731e3">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_008e8509d6462faecc32a0da295ebc86777a03ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_d8f84f4b30e75b162af77efb1fbe5456ce87cd81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_53d467d41d93b4988de841703c0c2d34654184fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/cb40ef19006bf928e7bd9a81ddb797e57e78f3a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_f9f2c82413543b1b22235f55a90358c26e05e4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/e0202c62a7dd6f1e278158be1c9fbf8e9883ac9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_9340ee05054e50c2fb93cd97eeb7e82e2e747f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/9c4994623a11e62e667c56bee875acd429f21698/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_1ae642b0c86acad29fd0ca40fd3c574587e933ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_30d916729e31fddc51fd962d2105dad64425edfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/a29f03f75fedf3dcd971b937c005b9e3664d3964/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_ebac8cbf98fe8fa6a5d0e86de2636abb837a064a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/f72d45d7d134d425d8fd3b7837e35d152417e2bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_33e96daa80ab4dfeeaa6bdd6dab2c15e9102d846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="81a0231a4d9cea0478f1f5ecd8c5e7cde4d9aac2">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_3adb4238d2bbaebbcbf38f44d6779b44da0840eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/8257b5781ba0f35a78dc58d7bcc305205f87f2f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1b87a54850054c5ed5a2e14153a0b51e13f72f15">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_27a8edb5857fc54fd342c0861f770296e5d506d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_751ce00e4df13821ed501655d7851fce0dd1efc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/188e020127ff25d5a267aab9ef8124000bf1cbbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dd86dfc9c6946cf3fc34ba8bebd49e0e0845a89e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_996d133f4bc529b4e144f8886b99f496c51dd7f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/83265cce23a88a561bb0ab1e6a50f6a5df742dfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a6716d5ca5aad59d26c856d4354b7ea560c2029e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_f60230eed3917b8b0be97e3d71f495dfbddab763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_de28e7fe852b73913bce08eeb0fde972635d29d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/728ccd301b6bb678eb6be9b0f5100e87184039bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_96713f45f9653c1ec7f2f1314bc52d8174b3b42e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/e0202c62a7dd6f1e278158be1c9fbf8e9883ac9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_9340ee05054e50c2fb93cd97eeb7e82e2e747f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-immediate-phone-call/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b2c496a0c0310d720ba6ded2b81924d8491d0681">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_9a18658a369468a2ae597c784b3a62fa1dd4d440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/bee9af14c593229019ea2a9a80ad40e5dd1c14fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_76d3679adb7c8b0e65a1e62e43134db29882aaab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/bf1f90ea3c8419995d064428c6777c31d58711ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_e7d0bc20aa3d56a7ce4b85e25f59c12fe7f0551b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_0db533255a538d61cfea4fd81a70c63104289098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-fcm/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d50cc004b6d06976b05d600b41ff45e8f92f2d5a">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_8911087e5204bf9c92552876a2c92dc414b8cecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/e25fabfe65b18fcd971ea6e8b42b09e62d06269e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_194c5e3cae5b95fc64f7c6f3977d37519db0cae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3bed41dc3164f618b7c22f37116f60b2017046e7">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_60f78fe44aa1c42960e53d05a996bb792a6aedba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/a793cf9f875988b5a87fe83dca915b32f67dba72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0b9a31e5f76892a7740e721c0f426fd13537f1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/1835a98ef221ee2dde91634b10b7ea2670ccabe3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_ff4ee761e533cfcc5b864b6f19b9fcbc08c7d4ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/3891b29e54afdab7eade1c1599a3751da87cee52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_5ecb9a5e09a7ada5174a18ebaf98c4aa29de9805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/eb95e73f436e766bba1d03c5372088410d7d4665/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_41bd5fb3f38f652379c6da9aeda53c6492dfd4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/889030391da4cf0bbb105709c7e109c02c46dedb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9d0ff1960f148dafff5b945e8596c060ff3cf88e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_7361655249fcdfcdaa2e4ece069b364e243a5fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_0db533255a538d61cfea4fd81a70c63104289098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_d6579531ded97da3ee71addf6aaa6b8413e0ee8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_d8f84f4b30e75b162af77efb1fbe5456ce87cd81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c29211912d493074e81ca60c0af524d8c8b9d992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_325fd3331cd999ee810c05b2733056aa7ed60b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_30d916729e31fddc51fd962d2105dad64425edfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-image-crop-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7423febf516615fdffa47e41246ad34adb1cf3cf">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_75ae84f0f7dd41907ad1b0d6e1f88249983d9b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/6c4c44caee887507d61075f5bac1a0f903ef4aec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="694a642670bddee011a52670fc77f018d2b731e3">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_008e8509d6462faecc32a0da295ebc86777a03ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4a41e2bcd29ae9244e4d3f398cbf6141a9035334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_53d467d41d93b4988de841703c0c2d34654184fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_30d916729e31fddc51fd962d2105dad64425edfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_53d467d41d93b4988de841703c0c2d34654184fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="81a0231a4d9cea0478f1f5ecd8c5e7cde4d9aac2">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_3adb4238d2bbaebbcbf38f44d6779b44da0840eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/cb40ef19006bf928e7bd9a81ddb797e57e78f3a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_f9f2c82413543b1b22235f55a90358c26e05e4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/e25fabfe65b18fcd971ea6e8b42b09e62d06269e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_194c5e3cae5b95fc64f7c6f3977d37519db0cae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/188e020127ff25d5a267aab9ef8124000bf1cbbf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dd86dfc9c6946cf3fc34ba8bebd49e0e0845a89e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_996d133f4bc529b4e144f8886b99f496c51dd7f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4a41e2bcd29ae9244e4d3f398cbf6141a9035334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c3e0efbdf807ea83e3d88716dbca08c56006887e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/3891b29e54afdab7eade1c1599a3751da87cee52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_5ecb9a5e09a7ada5174a18ebaf98c4aa29de9805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_0db533255a538d61cfea4fd81a70c63104289098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/9c705964bfb84055774fd766c054a2724e68dc6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0d1ef93c946d6fa5676a891668469d9ad613c43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/1bd4673506b40b2218aca42b3ff8eb234b0a0074/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a08c6dadfd96a281d9fddf59a767749e43064c23">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_f95b05341e2a52573749f5b402cb33a85850caf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/bee9af14c593229019ea2a9a80ad40e5dd1c14fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_76d3679adb7c8b0e65a1e62e43134db29882aaab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-fcm/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d50cc004b6d06976b05d600b41ff45e8f92f2d5a">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_8911087e5204bf9c92552876a2c92dc414b8cecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/bf1f90ea3c8419995d064428c6777c31d58711ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_e7d0bc20aa3d56a7ce4b85e25f59c12fe7f0551b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c3e0efbdf807ea83e3d88716dbca08c56006887e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.1_3518ae29f340b6dae7976944c6576616c8fe2228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/b444e5eb890c22d820e4ff83620220c2c8e9d421/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_8e3c750f5229fb23d330ab8a9c2a29b65bfb7af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.1_3518ae29f340b6dae7976944c6576616c8fe2228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c29211912d493074e81ca60c0af524d8c8b9d992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/f321c6ea01846f7f0d7a202a1617a51d006920e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0e319f9b94c446339ac967a83cc568057a6b7d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/69e38c5a26a0957db6c14efea81b7de630cfb143/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3f3a7bc101bb56e328e22399008443d41162419e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_703e1f0ed8d18f7c160cb9ddf5d5a276cf5b7dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/1e665b21896402d17413f051f271bede29d21ef4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5b9f57b1fb76487516b73b908f54c60c48202d84">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_057530a2cfeb0d5cb1a8ff0ef9dc591c73d20cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_a70cfd00283fd9da22030bda28a7b5c7b402b658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_751ce00e4df13821ed501655d7851fce0dd1efc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-contacts/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae7b79e6ebb090878002ad3643843671cc2f5521">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_ef6ff853fef8e79198b31a36d261431031a051e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-contacts/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae7b79e6ebb090878002ad3643843671cc2f5521">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_ef6ff853fef8e79198b31a36d261431031a051e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/1bd4673506b40b2218aca42b3ff8eb234b0a0074/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a08c6dadfd96a281d9fddf59a767749e43064c23">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_f95b05341e2a52573749f5b402cb33a85850caf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/2b285b6daa72410f3d23d00da01933d458d28af4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_bb8d76f9dda08fc01dff75a4ea299c22b42a3803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_de28e7fe852b73913bce08eeb0fde972635d29d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_703fcbb1f8899b91bb2b97002b00754c52825317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-simple-contacts/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0cb718b49fbfbd72aa853e4188807be8ccfa0e7f">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c54f364d9a6d04d66cf81c4b98ff7d199309a279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/9c705964bfb84055774fd766c054a2724e68dc6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0d1ef93c946d6fa5676a891668469d9ad613c43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/f4fc2f3f4305248bb5ed89256792d53ebdcd030d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_5533e558ecdfa206cddc1e526f8880c7322f8e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/76a31404e83bcd703ec1a88dee1659223a929989/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a0e6c91e57cebf6dc5b23e1a8d1c55aff3e7ed92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_2fab2fde5dd8c26a072f6044e8b2b2b2d40da86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_d6579531ded97da3ee71addf6aaa6b8413e0ee8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/eee02867ac67869291d1d345df75f33479a6eab1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="24c8e3677196a011b4351824ba2ab0e17ab1ca88">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_95a9c79ca412df5b11871f735c72dfbc4032e08e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/69e38c5a26a0957db6c14efea81b7de630cfb143/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3f3a7bc101bb56e328e22399008443d41162419e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_703e1f0ed8d18f7c160cb9ddf5d5a276cf5b7dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c3e0efbdf807ea83e3d88716dbca08c56006887e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/95400cd60ce17099cda1181b397e1b776db2908e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4096514ce1185b89df80681e982486efa30e440e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c933380f4d504829b51325cb83f556a5d64b98cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/b444e5eb890c22d820e4ff83620220c2c8e9d421/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_8e3c750f5229fb23d330ab8a9c2a29b65bfb7af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/2d0de32c05c06df39ba38d94925a05a017ea041a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_51b2d523a8308f398e5618dfa313fa79f23fc473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-geocoder/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae91e4c5567a33a1e23ea6514c37b65c589b39ca">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c3414c82677a5275acd76306a5357540ed45330c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/7d094e0dde68f4f37dff6159287289498202b1c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c24fc193ef757801f3677e28cc150a6da574c48c">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_4ecf32c67805a1a241ea321ea17de3ff2eaa2a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/1e665b21896402d17413f051f271bede29d21ef4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5b9f57b1fb76487516b73b908f54c60c48202d84">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_057530a2cfeb0d5cb1a8ff0ef9dc591c73d20cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/f321c6ea01846f7f0d7a202a1617a51d006920e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0e319f9b94c446339ac967a83cc568057a6b7d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/8257b5781ba0f35a78dc58d7bcc305205f87f2f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1b87a54850054c5ed5a2e14153a0b51e13f72f15">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_27a8edb5857fc54fd342c0861f770296e5d506d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/9c4994623a11e62e667c56bee875acd429f21698/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_1ae642b0c86acad29fd0ca40fd3c574587e933ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/50a1d4c50ed10898ff15ac53eb795b119588541f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_58a5fd79133058173dca7f5542910c59a57d7b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="063278187507d3383c66386163cbabf34d6e748a">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_be512b963433b978432773151d3f2da03a3fd528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/7103553c1edb4f2c88c8d7354abba753a9f98109/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a5f16eb26be831399d58890dafe989df0a5a8088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/f72d45d7d134d425d8fd3b7837e35d152417e2bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_33e96daa80ab4dfeeaa6bdd6dab2c15e9102d846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/76a31404e83bcd703ec1a88dee1659223a929989/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_a0e6c91e57cebf6dc5b23e1a8d1c55aff3e7ed92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_728e4ed6d9e2c38918c0486d71e8f167e851e546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/fcb01d2d4d106e5b6914105708e5a0311396c50e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9b7b9f800b62f974cd3a75faf1720c010c7ac244">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0bad0310f22745df69fb1910320d928cbcb52375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_a70cfd00283fd9da22030bda28a7b5c7b402b658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_751ce00e4df13821ed501655d7851fce0dd1efc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/25d527d2d95efb05324a648271aaeca2f692abea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="47fad7a852da507191f2284281ff1cdb5896d888">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_e573b6bd661cf22a256326dac75f2f45e1458479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/a29f03f75fedf3dcd971b937c005b9e3664d3964/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_ebac8cbf98fe8fa6a5d0e86de2636abb837a064a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/728ccd301b6bb678eb6be9b0f5100e87184039bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_96713f45f9653c1ec7f2f1314bc52d8174b3b42e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_de28e7fe852b73913bce08eeb0fde972635d29d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/2b285b6daa72410f3d23d00da01933d458d28af4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_bb8d76f9dda08fc01dff75a4ea299c22b42a3803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_703fcbb1f8899b91bb2b97002b00754c52825317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_2fab2fde5dd8c26a072f6044e8b2b2b2d40da86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/fcb01d2d4d106e5b6914105708e5a0311396c50e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9b7b9f800b62f974cd3a75faf1720c010c7ac244">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0bad0310f22745df69fb1910320d928cbcb52375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-simple-contacts/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0cb718b49fbfbd72aa853e4188807be8ccfa0e7f">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c54f364d9a6d04d66cf81c4b98ff7d199309a279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-immediate-phone-call/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b2c496a0c0310d720ba6ded2b81924d8491d0681">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_9a18658a369468a2ae597c784b3a62fa1dd4d440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/f4fc2f3f4305248bb5ed89256792d53ebdcd030d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_5533e558ecdfa206cddc1e526f8880c7322f8e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/95400cd60ce17099cda1181b397e1b776db2908e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4096514ce1185b89df80681e982486efa30e440e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c933380f4d504829b51325cb83f556a5d64b98cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/889030391da4cf0bbb105709c7e109c02c46dedb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9d0ff1960f148dafff5b945e8596c060ff3cf88e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_7361655249fcdfcdaa2e4ece069b364e243a5fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/83265cce23a88a561bb0ab1e6a50f6a5df742dfc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a6716d5ca5aad59d26c856d4354b7ea560c2029e">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_f60230eed3917b8b0be97e3d71f495dfbddab763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/Desktop/AwesomeProject/node_modules/react-native-geocoder/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae91e4c5567a33a1e23ea6514c37b65c589b39ca">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_c3414c82677a5275acd76306a5357540ed45330c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/eb95e73f436e766bba1d03c5372088410d7d4665/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_41bd5fb3f38f652379c6da9aeda53c6492dfd4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/eee02867ac67869291d1d345df75f33479a6eab1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="24c8e3677196a011b4351824ba2ab0e17ab1ca88">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_95a9c79ca412df5b11871f735c72dfbc4032e08e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/7d094e0dde68f4f37dff6159287289498202b1c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c24fc193ef757801f3677e28cc150a6da574c48c">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_4ecf32c67805a1a241ea321ea17de3ff2eaa2a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/linux30/.android/build-cache/a793cf9f875988b5a87fe83dca915b32f67dba72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes_0b9a31e5f76892a7740e721c0f426fd13537f1f5.jar" />
+    </item>
+
+</items>

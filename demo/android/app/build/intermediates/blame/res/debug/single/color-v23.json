@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

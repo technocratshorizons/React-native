@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/linux30/.android/build-cache/fcc6a9b6990684b2d8ef88692191b8df40261bf4/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/linux30/.android/build-cache/801226780f490fe1a0cb148dc472426c174c6b58/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/linux30/.android/build-cache/13b8d343f06cfed4de28b219a59c3016762c9211/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/linux30/.android/build-cache/fcc6a9b6990684b2d8ef88692191b8df40261bf4/output/res/anim/tooltip_exit.xml"
+    }
+]

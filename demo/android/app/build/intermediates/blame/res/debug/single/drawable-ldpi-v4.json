@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/home/linux30/Desktop/AwesomeProject/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/home/linux30/.android/build-cache/d92143fc6b30dc513f8224c28797e0f8bfe531e3/output/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    }
+]
