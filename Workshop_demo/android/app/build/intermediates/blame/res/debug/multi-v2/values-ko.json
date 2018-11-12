@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/linux30/Documents/Workshop/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "map": [
+                {
+                    "source": "/home/linux30/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/37371fbeb24701101e352b34d3cb440b/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,375,483,606,700,802,884,982,1088,1168,1266,1361,1456,1556,1652,1751,1866,1960",
+                        "endColumns": "94,107,122,93,101,81,97,105,79,97,94,94,99,95,98,114,93,100",
+                        "endOffsets": "370,478,601,695,797,879,977,1083,1163,1261,1356,1451,1551,1647,1746,1861,1955,2056"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,308,431,525,627,709,807,913,993,1091,1186,1281,1381,1477,1576,1691,2066",
+                        "endColumns": "94,107,122,93,101,81,97,105,79,97,94,94,99,95,98,114,93,100",
+                        "endOffsets": "195,303,426,520,622,704,802,908,988,1086,1181,1276,1376,1472,1571,1686,1780,2162"
+                    }
+                },
+                {
+                    "source": "/home/linux30/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f45ad66c7801a56a7baab2b7a7c66e16/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "179",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1785",
+                        "endColumns": "179",
+                        "endOffsets": "1960"
+                    }
+                },
+                {
+                    "source": "/home/linux30/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/c8441e74bf6d3974ca3be32604d0cac2/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "241",
+                        "endColumns": "96",
+                        "endOffsets": "337"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1965",
+                        "endColumns": "100",
+                        "endOffsets": "2061"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_59460663cb667c31976aac00a0d1f75873cd5b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_590e7c472bae3466af1a018cadb422e779e159be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.3.0_522a9a9356f75fb1aa7b82583b94412b1d214fae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/support-annotations-25.2.0_39c0b0b34c29a5dadf312ae0901cc9c14f0ca31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/WorkShop/RNPermissionsModule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="875a79644647fc9b51c8f6b51b9b148623f3ba40">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/WorkShop-RNPermissionsModule-unspecified_b40006f3a2078534f9ede5109bf54cae0d00504e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/WorkShop/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f501324029600d0e54eddd9f07b2ceaf6c56417e">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/WorkShop-react-native-video-unspecified_cf37190e1f05cb99ec43d332054b1a329f79cc28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.2.0_ca253c2ea71d9700fa1af93f1dd89c66709e14cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_a53bb6956b763b5ebdd26325d696dee1011dd895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.2.0_55c312f02119390b67859738bcba5a7565b2b607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.2.0_bc41414f9dbefc5af23a2af50c1013f598bb5d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/WorkShop/react-native-paypal-wrapper/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa621da6b9a1eb20ae4d565f7f54311ad52058b8">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/WorkShop-react-native-paypal-wrapper-unspecified_8c49c75fbb94b296e0b6ea1627ec422fe59d16fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_f445053c231eb0152b9d7a8eb7cdfa3df2a2d1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_62eb7a43462955b1f63c87050faaaeb1efe242a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.3.0_aabec2cbdcda42ced1c0f8d946616536aa15d742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_84d193bed529811d6e7949f5b1aa4994a296cffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-11.8.0_54ef2ce515c7125b9dd499b946b72396f82d8a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-11.0.4_5221bd10317b4c0ddf4848b065d3982ab521a734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/WorkShop/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de31e43a8bbd6962302f47420d45c9778d1ae626">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/WorkShop-react-native-fetch-blob-unspecified_1760debf83b5c5ddbe7e6fee71041f4a6410568a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.yqritc-android-scalablevideoview-1.0.4_8dd45479b9964e2dbf2d89b178502e2c5c5e3171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.2.0_d06afa84fe5f5e095305ef8aa39bc43484f4f718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.3.0_7306156a50b731c80bdbe3d9335ff97bcdbd9bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/me.leolin-ShortcutBadger-1.1.17_026c10868a9c63df032e0a6558cef070ad3e5f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-11.8.0_bdbcdc07acc86d92e20349253378e18471d15818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-11.0.4_d6ca539133bd58ecbd14779b50bdb82652619d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.3.0_3f9ff1c02201c67c934d39aa1907c05bfe3d22ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.3.0_4ad41acdafc851d474f118bc3a500165166f56c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/WorkShop/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c321e103b5d0363ad957d5b2b30b6ea8b1f2be8">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/WorkShop-react-native-fcm-unspecified_40d50e3683f32af750c47ae64f059f33915b3101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_d4ef70c38cdc6b40b693437501b2644936914dc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/WorkShop/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/WorkShop-react-native-vector-icons-unspecified_93f208d28302e9c262589db56b739d8faad44c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-11.8.0_8c57a3b8a92e0e058255ac6a28c83349908d7c2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_7957a0b8ffbdb0efc63c6f192e2c6200e504e1cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/WorkShop/react-native-signature-capture/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02a628533accf0f3ec82d3f6d7fbd23132bfbe1d">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/WorkShop-react-native-signature-capture-unspecified_0efaf28654753a24a516e984c46361afc75d402d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_1e13635c52d8caced10aa8ae240fc2af484f7604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_631df1b6001740f2d72a1a1fa0973842c6e01b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.54.2_24301192c6b1757e0bb93d2eb799ea7fd7ebab1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-messaging-11.8.0_02ca27ce1209d3922a3b6e0ab4804e3594225a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/javax.inject-1_73e5ae73d979c884fb2adc5c0ef1c34f80a929e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.paypal.sdk/paypal-android-sdk/2.15.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7de4e9c774aa3924c5633377c652913fa7de49e0">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.paypal.sdk-paypal-android-sdk-2.15.1_a1ade0adef76737a4c767b26a3bf1b4196688ce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-11.8.0_01389de05a2f9082ee4d030d2244e89a0491de2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.2.0_62389ab9e5643a22fc365b4a1755ecc3b0e332f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_5a43c65124ca8d3259271005350f20ffa24838c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/beyondroot/Projects/worskshopapp_milestone2/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.2.0_24f6e85e6f44fc164fb833cdfecce262c53602c0.jar" />
+    </item>
+
+</items>

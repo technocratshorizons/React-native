@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "806835719059",
+    "firebase_url": "https://ireauto-d6a52.firebaseio.com",
+    "project_id": "ireauto-d6a52",
+    "storage_bucket": "ireauto-d6a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806835719059:android:89d3a49ce446f663",
+        "android_client_info": {
+          "package_name": "com.workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806835719059-3rm905pqict7h316snh6imjomjaj7g7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfc6nJfx4nvrBtsou7LGDGD7Nq9ExaX7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
