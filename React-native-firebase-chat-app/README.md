@@ -1,27 +1,3 @@
-# RnFireChat
-
-**RnFireChat** is the 5th session build for showing the implementation of Firebase for building a Chat app; both Chat Room and p2p along with serverless function for push notification.
-
-[![RnFireChat demo](https://i.imgur.com/Lae3m7R.gif)](https://youtu.be/XNQ1jgqpX3c)
-
-In this master branch, we'll be using the built layout from <a href="https://github.com/aryaminus/RN-firechat/tree/PersonalChat" target="_blank">PersonalChat</a> branch where we will be working to building push notification using <a href="https://firebase.google.com/docs/functions/" target="_blank">Firebase Cloud Functions</a> using my other repository:
-
-<a href="https://github.com/aryaminus/RN-firechat-functions" target="_blank">RN-firechat-functions</a>
-
-Also, we will be working on generating release apk so that it can be used within diferent devices.
-
-## Todos
-
-- [ ] Configuring firebase-messaging to subscribe to particular 1 to 1 chat
-- [ ] Making the UI of Boiler.js more enhanced and material
-- [ ] Adding file exchange i.e sending and receiving files between the user
-- [ ] Adding avatar to the user profile
-
-**Note:**
-
-1. Arch Linux with VS-Code, thus support focused on Android App
-2. Extensions: <a href="https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native" target="_blank">React Native Tools</a> , <a href="https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux" target="_blank">React-Native Snippets</a> , <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank">Prettier</a>
-3. Device run instead of SDK-build using <a href="https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm" target="_blank">Vysor</a>
 
 ## Installation
 
